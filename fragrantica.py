@@ -8,7 +8,7 @@ def func_height(strr):
 
 print("Name, Group, MainNote1, MainNote2, MainNote3, Season, Day/Night, Longevity, sillage")
 
-f = open("url.txt", 'r')
+f = open("url/url1.txt", 'r')
 lines = f.readlines()
 
 for line in lines:
