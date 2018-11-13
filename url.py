@@ -9,7 +9,7 @@ for line1 in lines1:
         f2 = open('url/url'+str(cnt1)+'.txt', 'a')
     f2.write(line1)
     cnt2+=1
-    if cnt2 == 20:
+    if cnt2 == 1000:
         cnt1+=1
         cnt2=1
     f2.close()
