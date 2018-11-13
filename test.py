@@ -6,6 +6,8 @@ def func_height(strr):
     endIndex = strr.find(';',startIndex)
     return strr[startIndex+8:endIndex-2]
 
+print("Name, Group, MainNote1, MainNote2, MainNote3, Season, Day/Night, Longevity, Sillage, Rating")
+
 f = open("url/input1.txt", 'r')
 lines = f.readlines()
 
@@ -24,6 +26,7 @@ for line in lines:
         win = soup.select('div[id=clswinterD]')
         day = soup.select('div[id=clsdayD]')
         nig = soup.select('div[id=clsnightD]')
+        rat = soup.select('span[itemprop=ratingValue]')
 
         #-------------- SEASON ---------------------------
         strspr = str(spr[0])
@@ -99,7 +102,7 @@ for line in lines:
             elif cnt == 9:
                 eno = num.text
                 cnt+=1
-        print(nam[1].text+","+gru[0].text+","+strmnn[startIndex1+5:endIndex1]+","+strmnnn[startIndex2+5:endIndex2]+","+strmnnnn[startIndex3+5:endIndex3]+","+func_height(strspr)+","+func_height(strsum)+","+func_height(straut)+","+func_height(strwin)+","+func_height(strday)+","+func_height(strnig)+","+poo+","+wea+","+med+","+lon+","+ver+","+sof+","+mode+","+hea+","+eno)
+        print(nam[1].text+","+gru[0].text+","+strmnn[startIndex1+5:endIndex1]+","+strmnnn[startIndex2+5:endIndex2]+","+strmnnnn[startIndex3+5:endIndex3]+","+func_height(strspr)+","+func_height(strsum)+","+func_height(straut)+","+func_height(strwin)+","+func_height(strday)+","+func_height(strnig)+","+poo+","+wea+","+med+","+lon+","+ver+","+sof+","+mode+","+hea+","+eno+","+str(rat[0]))
     except:
         pass
 f.close()
