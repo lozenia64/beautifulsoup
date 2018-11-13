@@ -1,0 +1,23 @@
+Name, Group, MainNote1, MainNote2, MainNote3, Season, Day/Night, Longevity, sillage
+Acqua di Parma Colonia Acqua di Parma for women and men,Citrus,Sicilian Citruses,Lavender,Rosemary,56,77,19,7,82,16,21,44,148,39,9,80,177,27,31
+Acqua di Parma Colonia Assoluta Acqua di Parma for women and men,Citrus Aromatic,Bitter Orange,Bergamot,Ylang-Ylang,50,66,19,6,73,17,8,23,72,35,6,40,102,26,30
+Acqua di Parma Colonia Assoluta Edizione Riviera Acqua di Parma for women,Citrus Aromatic,Lavender,Bulgarian Rose,Cedar,1,1,1,1,50,1,0,0,0,0,0,0,1,0,1
+Acqua di Parma Colonia Assoluta Edizione Speciale 2011 Acqua di Parma for women and men,Citrus,Lavender,Rosemary,Jasmine,40,40,40,1,100,20,3,1,1,0,0,2,0,3,2
+Acqua di Parma Colonia Edizione Centenario Acqua di Parma for women and men,Citrus,Lavender,Vetiver,Musk,50,100,50,1,100,50,1,0,0,1,1,0,1,0,1
+Acqua di Parma Colonia Pura Acqua di Parma for women and men,Citrus Aromatic,Ozonic notes,Bergamot,Orange,73,70,20,10,75,12,7,6,29,7,2,20,32,8,8
+Acqua di Parma Gelsomino Nobile Acqua di Parma for women,Floral Woody Musk,Jasmine,Tuberose,Orange Blossom,44,35,21,12,53,15,4,10,25,10,4,7,33,17,6
+Acqua di Parma Iris Nobile Acqua di Parma for women,Floral Woody Musk,iris,Tuberose,Orange Blossom,47,26,28,17,57,24,5,9,59,38,19,28,87,26,22
+Acqua di Parma Iris Nobile Edizione Speciale 2008 Acqua di Parma for women,Floral Woody Musk,iris,Oakmoss,Patchouli,17,10,21,39,53,25,1,0,1,3,3,3,4,1,3
+Acqua di Parma Magnolia Nobile Acqua di Parma for women,Floral Fruity,Magnolia,Citron,Lemon,51,39,16,9,64,13,4,5,32,52,6,18,63,26,22
+Acqua di Parma Magnolia Nobile Special Edition Acqua di Parma for women,Floral,Magnolia,Jasmine,Vanille,33,33,33,1,16,16,1,1,1,2,1,0,0,3,0
+Acqua di Parma Profumo Acqua di Parma for women,Woody Chypre,Ylang-Ylang,iris,Jasmine,14,10,32,21,36,34,0,5,3,5,7,3,6,7,9
+Acqua di Parma Profumo 2008 Acqua di Parma for women,Woody Chypre,Jasmine,Ylang-Ylang,Oakmoss,25,14,29,29,29,37,0,0,2,2,0,1,5,5,2
+Colonia Assoluta In Villa Acqua di Parma for women and men,Aromatic Spicy,Citruses,Woodsy Notes,Spices,53,30,30,1,61,15,0,0,1,3,0,1,5,0,1
+Colonia Club Acqua di Parma for women and men,Woody Aromatic,Mint,Lavender,Bergamot,75,68,35,11,76,19,5,10,46,28,3,21,72,25,16
+Colonia Essenza Special Edition 2015 Acqua di Parma for men,Citrus Aromatic,Neroli,Mandarin Orange,Moss,31,37,18,1,37,12,0,1,1,4,1,1,4,3,2
+Colonia Intensa Acqua di Parma for men,Woody,Citruses,Bergamot,Cardamom,54,51,26,10,67,23,11,18,68,80,15,29,114,54,24
+Essenza di Colonia Acqua di Parma for men,Citrus Aromatic,Neroli,Bergamot,Grapefruit,49,58,25,10,59,28,13,16,93,149,31,36,208,78,51
+Gelsomino Nobile Edizione Speciale Acqua di Parma for women,Floral Woody Musk,Jasmine,Tuberose,Mandarin Orange,50,25,25,1,75,1,0,1,1,0,1,3,0,0,1
+Iris Nobile 10th Anniversary Special Edition Acqua di Parma for women,Floral Woody Musk,Iris Flower,Ylang-Ylang,Star Anise,57,57,57,42,100,28,1,0,2,3,1,1,5,0,0
+Iris Nobile Edizione Speziale Acqua di Parma for women,Chypre Floral,iris,Ylang-Ylang,Mandarin Orange,28,28,71,14,42,28,0,0,0,3,0,0,2,0,0
+Iris Nobile Sublime Acqua di Parma for women,Floral,Tuscan Iris,Neroli,Orange Blossom,42,18,26,25,50,15,0,5,14,10,3,6,23,6,10
