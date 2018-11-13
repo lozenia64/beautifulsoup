@@ -21,3 +21,25 @@ Gelsomino Nobile Edizione Speciale Acqua di Parma for women,Floral Woody Musk,Ja
 Iris Nobile 10th Anniversary Special Edition Acqua di Parma for women,Floral Woody Musk,Iris Flower,Ylang-Ylang,Star Anise,57,57,57,42,100,28,1,0,2,3,1,1,5,0,0
 Iris Nobile Edizione Speziale Acqua di Parma for women,Chypre Floral,iris,Ylang-Ylang,Mandarin Orange,28,28,71,14,42,28,0,0,0,3,0,0,2,0,0
 Iris Nobile Sublime Acqua di Parma for women,Floral,Tuscan Iris,Neroli,Orange Blossom,42,18,26,25,50,15,0,5,14,10,3,6,23,6,10
+Magnolia Nobile Special Edition Acqua di Parma for women,Floral,Magnolia,Citruses,Jasmine,12,12,1,1,12,12,0,1,0,0,1,0,3,1,3
+Magnolia Nobile Special Edition 2016 Acqua di Parma for women,Floral,Magnolia,Jasmine,Bergamot,66,33,66,33,66,100,0,1,0,0,0,0,1,0,1
+Peonia Nobile Acqua di Parma for women,Floral,Peony,Turkish Rose,Raspberry,59,31,18,9,57,8,3,4,13,16,3,2,23,13,9
+Peonia Nobile Edizione Speciale Acqua di Parma for women,Chypre Floral,Peony,Amber,Raspberry,75,50,25,25,50,25,0,1,2,0,0,1,1,1,1
+Profumo Eau de Parfum Acqua di Parma for women,Woody Chypre,Ylang-Ylang,Labdanum,Bulgarian Rose,12,10,23,23,21,29,0,0,7,5,7,1,7,13,6
+Rosa Nobile Acqua di Parma for women,Floral Woody Musk,Rose,Peony,Musk,47,35,20,10,56,8,6,7,35,11,3,16,46,13,16
+Rosa Nobile Edizione Speciale Acqua di Parma for women,Floral,Rose,Peony,Mandarin Orange,66,33,33,66,100,33,1,2,2,0,0,0,3,0,0
+Acqua Nobile Gelsomino Acqua di Parma for women,Floral,Jasmine,Neroli,Petitgrain,57,42,13,5,65,5,3,3,8,2,3,6,13,10,5
+Acqua Nobile Iris Acqua di Parma for women,Floral,iris,Citron,Orange Blossom,55,50,31,15,60,23,2,4,11,3,2,11,14,4,5
+Acqua Nobile Magnolia Acqua di Parma for women,Floral,Magnolia,Citron,Lemon,77,82,22,2,80,8,11,5,8,0,2,16,11,1,2
+Acqua Nobile Rosa Acqua di Parma for women,Floral,Rose,Musk,Mandarin Orange,43,39,17,8,56,8,2,0,7,2,0,2,7,5,5
+Acqua di Parma Blu Mediterraneo - Cipresso di Toscana Acqua di Parma for women and men,Woody Aromatic,Cypress,Pine Tree,Lavender,25,58,31,6,72,9,4,13,10,5,1,8,23,3,4
+Acqua di Parma Blu Mediterraneo - Fico di Amalfi Acqua di Parma for women and men,Floral Fruity,Fig Nectar,Fig Tree,Grapefruit,40,67,9,4,68,10,26,74,138,38,12,85,169,37,29
+Acqua di Parma Blu Mediterraneo - Ginepro di Sardegna Acqua di Parma for women and men,Woody Aromatic,Juniper,Virginia Cedar,Allspice,57,65,32,14,74,29,8,12,48,45,5,35,77,19,19
+Acqua di Parma Blu Mediterraneo - Mandorlo di Sicilia Acqua di Parma for women and men,Oriental Floral,Green Almond,Bourbon Vanilla,Star Anise,32,35,43,24,57,21,16,27,93,127,24,66,195,66,23
+Acqua di Parma Blu Mediterraneo Arancia di Capri Acqua di Parma for women and men,Citrus Aromatic,Orange,Sicilian Mandarin,Petitgrain,26,69,5,4,68,6,23,39,69,20,7,90,59,23,18
+Acqua di Parma Blu Mediterraneo Bergamotto di Calabria Acqua di Parma for women and men,Woody Aromatic,Bergamot,Citron,Ginger,24,60,4,3,58,4,61,43,39,9,3,100,48,18,15
+Acqua di parma Blue Mediterraneo - Mirto di Panarea Acqua di Parma for women and men,Woody Aromatic,Myrtle,Lemon,Bergamot,40,70,9,2,68,10,9,18,86,23,11,46,100,20,16
+Blu Mediterraneo Quercia Marina Acqua di Parma for women and men,Aromatic,Seaweed,Mint,Carnation,50,66,16,1,100,33,1,0,4,0,0,2,4,4,1
+Cedro di Taormina Acqua di Parma for women and men,Woody Aromatic,Citruses,Virginian Cedar,Petitgrain,70,72,28,6,75,20,6,24,45,3,2,22,50,13,14
+Chinotto di Liguria Acqua di Parma for women and men,Chypre Floral,Chinotto,Mandarin Orange,Jasmine,52,100,17,8,91,8,3,7,11,6,0,9,20,2,4
+Colonia Ambra Acqua di Parma for men,Oriental,Ambergris,Musk,Sea Notes,20,15,38,20,23,39,10,9,34,31,12,16,57,14,22
