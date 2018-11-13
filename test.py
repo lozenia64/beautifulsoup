@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import time
 
 def func_height(strr):
     startIndex = strr.find('height')
@@ -27,7 +28,6 @@ for line in lines:
         day = soup.select('div[id=clsdayD]')
         nig = soup.select('div[id=clsnightD]')
         rat = soup.select('span[itemprop=ratingValue]')
-
         #-------------- SEASON ---------------------------
         strspr = str(spr[0])
         strsum = str(sum[0])
@@ -102,7 +102,8 @@ for line in lines:
             elif cnt == 9:
                 eno = num.text
                 cnt+=1
-        print(nam[1].text+","+gru[0].text+","+strmnn[startIndex1+5:endIndex1]+","+strmnnn[startIndex2+5:endIndex2]+","+strmnnnn[startIndex3+5:endIndex3]+","+func_height(strspr)+","+func_height(strsum)+","+func_height(straut)+","+func_height(strwin)+","+func_height(strday)+","+func_height(strnig)+","+poo+","+wea+","+med+","+lon+","+ver+","+sof+","+mode+","+hea+","+eno+","+str(rat[0]))
+        print(nam[1].text+","+gru[0].text+","+strmnn[startIndex1+5:endIndex1]+","+strmnnn[startIndex2+5:endIndex2]+","+strmnnnn[startIndex3+5:endIndex3]+","+func_height(strspr)+","+func_height(strsum)+","+func_height(straut)+","+func_height(strwin)+","+func_height(strday)+","+func_height(strnig)+","+poo+","+wea+","+med+","+lon+","+ver+","+sof+","+mode+","+hea+","+eno+","+rat[0].text)
     except:
         pass
+    time.sleep(3)
 f.close()

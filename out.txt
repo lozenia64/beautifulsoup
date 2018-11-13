@@ -1,1 +1,0 @@
-Name, Group, MainNote1, MainNote2, MainNote3, Season, Day/Night, Longevity, Sillage, Rating
