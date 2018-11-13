@@ -8,7 +8,7 @@ def func_height(strr):
 
 print("Name, Group, MainNote1, MainNote2, MainNote3, Season, Day/Night, Longevity, sillage")
 
-f = open("select.txt", 'r')
+f = open("input1.txt", 'r')
 lines = f.readlines()
 
 for line in lines:
@@ -101,7 +101,7 @@ for line in lines:
             elif cnt == 9:
                 eno = num.text
                 cnt+=1
-        print(nam[1].text+" : "+gru[0].text+","+strmnn[startIndex1+5:endIndex1]+","+strmnnn[startIndex2+5:endIndex2]+","+strmnnnn[startIndex3+5:endIndex3]+","+func_height(strspr)+","+func_height(strsum)+","+func_height(straut)+","+func_height(strwin)+","+func_height(strday)+","+func_height(strnig)+","+poo+","+wea+","+med+","+lon+","+ver+","+sof+","+mode+","+hea+","+eno)
+        print(nam[1].text+","+gru[0].text+","+strmnn[startIndex1+5:endIndex1]+","+strmnnn[startIndex2+5:endIndex2]+","+strmnnnn[startIndex3+5:endIndex3]+","+func_height(strspr)+","+func_height(strsum)+","+func_height(straut)+","+func_height(strwin)+","+func_height(strday)+","+func_height(strnig)+","+poo+","+wea+","+med+","+lon+","+ver+","+sof+","+mode+","+hea+","+eno)
     except:
         pass
 f.close()
