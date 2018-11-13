@@ -6,8 +6,6 @@ def func_height(strr):
     endIndex = strr.find(';',startIndex)
     return strr[startIndex+8:endIndex-2]
 
-print("Name, Group, MainNote1, MainNote2, MainNote3, Season, Day/Night, Longevity, sillage")
-
 f = open("url/input1.txt", 'r')
 lines = f.readlines()
 
