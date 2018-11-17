@@ -7,9 +7,8 @@ def func_height(strr):
     endIndex = strr.find(';',startIndex)
     return strr[startIndex+8:endIndex-2]
 
-for i in range(1,791):
-    f2 = open("out1.txt",'a')
-    f3 = open("out2.txt", 'a')
+for i in range(531,791):
+    f2 = open("out3.txt",'a')
     f = open("url/input"+str(i)+".txt", 'r')
     lines = f.readlines()
     for line in lines:
@@ -98,7 +97,6 @@ for i in range(1,791):
                     cnt+=1
             #print(nam[1].text+","+gru[0].text+","+strmnn[startIndex1+5:endIndex1]+","+strmnnn[startIndex2+5:endIndex2]+","+strmnnnn[startIndex3+5:endIndex3]+","+func_height(strspr)+","+func_height(strsum)+","+func_height(straut)+","+func_height(strwin)+","+func_height(strday)+","+func_height(strnig)+","+poo+","+wea+","+med+","+lon+","+ver+","+sof+","+mode+","+hea+","+eno+","+rat[0].text)
             f2.write(nam[1].text+","+gru[0].text+","+strmnn[startIndex1+5:endIndex1]+","+strmnnn[startIndex2+5:endIndex2]+","+strmnnnn[startIndex3+5:endIndex3]+","+func_height(strspr)+","+func_height(strsum)+","+func_height(straut)+","+func_height(strwin)+","+func_height(strday)+","+func_height(strnig)+","+poo+","+wea+","+med+","+lon+","+ver+","+sof+","+mode+","+hea+","+eno+","+rat[0].text+","+rac[0].text+"\n")
-            f3.write(i)
         except:
             pass
     f.close()
