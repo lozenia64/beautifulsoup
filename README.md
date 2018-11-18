@@ -1,4 +1,4 @@
-# bs
+# BeautifulSoup
 
 파이썬을 사용한 웹 크롤링
 
