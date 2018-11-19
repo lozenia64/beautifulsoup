@@ -29,7 +29,7 @@ fragrantica.py 파일을 사용하여 각 제품 페이지에 존재하는
 python3 fragrantica.py
 ```
 
-* fragrantica.txt 파일 생성.
+* fragrantica.txt 파일이 생성.
 
 ---
 ## 3.Numeric 데이터들을 Nominal 데이터로 변환
@@ -41,3 +41,4 @@ python3 fragrantica.py
 ```bash
 python3 merge.py
 ```
+* out.txt 파일이 생성됨.
