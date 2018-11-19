@@ -8,8 +8,7 @@ def func_height(strr):
     return strr[startIndex+8:endIndex-2]
 
 for i in range(1,791):
-    f2 = open("out1.txt",'a')
-    f3 = open("out2.txt", 'a')
+    f2 = open("fragrantica.txt",'a')
     f = open("url/input"+str(i)+".txt", 'r')
     lines = f.readlines()
     for line in lines:
